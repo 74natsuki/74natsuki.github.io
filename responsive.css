@@ -1,0 +1,40 @@
+@media all and (max-width:670px) {
+    .menu-icon {
+        display: block;
+    }
+    .header-list {
+        display: none;
+    }
+    .top-wrapper h1 {
+        font-size: 25px;
+        text-align: left;
+    }
+    .top-wrapper p {
+        font-size: 14px;
+        text-align: left;
+    }
+    .btn {
+        width: 100%;
+    }
+    .btn-wrapper p {
+        text-align: center;
+    }
+    .facebook {
+        margin-bottom: 10px;
+    }
+    .lesson-wrapper h2 {
+        font-size: 20px;
+    }
+    .lesson {
+        width: 100%;
+    }
+    .message-wrapper h2 {
+        font-size: 20px;
+    }
+    .entry {
+        width: 100%;
+    }
+    footer {
+        text-align: center;
+    }
+}
